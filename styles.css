@@ -74,9 +74,9 @@ a:visited{
 }
 
 /* .origami:hover{ */
-/*origami:mouseover{*/
+origami:mouseover{
 /*.origami:link{*/
-origami:hover{
+/*origami:hover{*/
 
     transform: scale(1.2);
 }
